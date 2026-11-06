@@ -1,0 +1,3 @@
+- insert:
+    - id: new-session-train
+      name: '@local/dsh-new-session-train'
